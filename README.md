@@ -1,6 +1,8 @@
 # Apple-Newton-Keyboard-USB-Adapter
 A USB adapter for the Apple Newton Keyboard
 
+http://http://jimandnoreen.com/?p=259
+
 Back in the pre-smartphone days, the Apple Newton was the first device in the PDA category.  Newtons were only sold for five years between 1993 and 1998, when Steve Jobs pulled the plug on the program.  Although Apple frequently took a ribbing for problems with the Newton’s handwriting recognition feature, its main problem with achieving market dominance was Newton’s high cost.  Although it beat the wildly successful Palm Pilot to market, Newton could not compete on price.
 
 One of Newton’s accessories was a very compact keyboard (just a hair over 10 inches wide).  I had one rattling around in my spare parts bin and it was the perfect size to use with the SunFounder Display and Raspberry Pi one-piece computer that I recently assembled.
